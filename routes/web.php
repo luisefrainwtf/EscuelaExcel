@@ -52,5 +52,7 @@ Route::get('/editcar', function () {
     return view('editcar');
 });
 
-//Route::put('/editarcar/{id_ref}', [editarController::class,'edit']);
+Route::get('/editarcar/{id_ref}', [editarController::class,'edit'])->name('editarcar');
+Route::post('/editarcar/{id_ref}', [editarController::class, 'update'])->name('editarcar');
+
 //Route::post('/editarcar', [editarController::class, 'insert'])->name('editarcar');
