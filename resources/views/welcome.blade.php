@@ -37,18 +37,16 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Admin</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Clientes</a>
+          <a class="nav-link active" aria-current="page" href="clientes">Clientes</a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Autos</a>
+          <a class="nav-link active" aria-current="page" href="autos">Autos</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Reservas</a>
+          <a class="nav-link active" aria-current="page" href="reservas">Reservas</a>
         </li>
         
       </ul>
