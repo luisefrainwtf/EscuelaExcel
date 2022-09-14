@@ -50,12 +50,12 @@
   <thead>
     <tr>
     <th scope="col">opciones</th>
-      <th scope="col">id_ref</th>
-      <th scope="col">name_car</th>
+      <th scope="col">identificador de referencia</th>
+      <th scope="col">nombre del carro</th>
       <th scope="col">planta</th>
-      <th scope="col">fech_ensam</th>
-      <th scope="col">model</th>
-      <th scope="col">city</th>
+      <th scope="col">fecha ensamble</th>
+      <th scope="col">modelo</th>
+      <th scope="col">ciudad</th>
     
     </tr>
   </thead>
