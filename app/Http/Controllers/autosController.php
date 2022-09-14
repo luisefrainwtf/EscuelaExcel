@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Models\Auto;
+use App\Models\auto;
 use resources\views\Autos;
 
 class autosController extends Controller
