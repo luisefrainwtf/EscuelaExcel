@@ -20,7 +20,6 @@ return new class extends Migration
             $table->date('fech_ensam');
             $table->year('model');
             $table->string('city');
-            $table->datetime('fech_in');
             $table->timestamps();
         });
     }
