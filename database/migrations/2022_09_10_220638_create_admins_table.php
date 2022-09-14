@@ -17,7 +17,6 @@ return new class extends Migration
             $table->increments('id_reserva');
             $table->string('cedula');
             $table->string('id_ref');
-            $table->datetime('fech_res');
             $table->timestamps();
         });
     }
